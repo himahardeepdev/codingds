@@ -1,0 +1,12 @@
+day- 1(15/09/2024)
+
+1)intro to ds 
+2)types of ds 
+3)intro to algo
+4)what is analysis of algo
+5)Asymtiontic analysis of an algo 
+6)Asymtiontic notations 
+7)types of Asymtiontic notations
+8)what is the Big(O) worst case  and its rules 
+9) calculating time complexity of constant algo
+10)  calculating time complexity linear alegebra algo
