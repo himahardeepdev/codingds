@@ -1,0 +1,11 @@
+day-2 (16/07/2024)
+prog1 -> print an elements from array
+prog2 -> remove even integers from an array 
+prog3 -> reverse an array 
+prog4 -> print min element from array
+prog5 -> print second max value 
+prog6 -> print zero's to last 
+prog7 -> how to resize an array 
+prog8 -> find the missing values from an array 
+prog9 -> check it is palandrom or not 
+

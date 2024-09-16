@@ -10,3 +10,6 @@ day- 1(15/09/2024)
 8)what is the Big(O) worst case  and its rules 
 9) calculating time complexity of constant algo
 10)  calculating time complexity linear alegebra algo
+
+day-2 (16/09/2024)
+11)calculating time complexity polynomical alegebra algo
