@@ -1,0 +1,6 @@
+SIngalyLinkedList --> 1)Creating a singlylinked List
+
+prog1 --> 2)  print the singlylinked;
+
+prog2 --> 3) print the length of SingalyLinkedList
+

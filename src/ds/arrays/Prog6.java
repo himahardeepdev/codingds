@@ -33,3 +33,19 @@ public class Prog6 {
         return res;
     }
 }
+
+/*
+
+1 0 3
+
+I = 0 
+j = 0 
+
+
+i = 1 , j = 1 
+j = 1 , i = 2 
+swap [1, 3 ,0];
+
+
+
+*/
