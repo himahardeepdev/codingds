@@ -4,3 +4,7 @@ prog1 --> 2)  print the singlylinked;
 
 prog2 --> 3) print the length of SingalyLinkedList
 
+prog3 --> 4) Add the node at begging 
+
+prog4 --> 5) delete the fist node from liked list 
+
