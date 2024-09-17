@@ -21,7 +21,10 @@ public class Prog2 {
     }
 
 
-    public int lengthOfSingaleLinekedList(){
+    public int length(){
+        if (head == null) {
+            return 0;
+        }
         NodeList current  = head;
         int count = 0 ;
         while (current != null) {
@@ -44,7 +47,7 @@ public class Prog2 {
 
         p2.printSingalLinkedList();
 
-       System.out.println( p2.lengthOfSingaleLinekedList());
+       System.out.println( p2.length());
 
 
     }
