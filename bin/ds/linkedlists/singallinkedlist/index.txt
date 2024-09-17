@@ -8,3 +8,5 @@ prog3 --> 4) Add the node at begging
 
 prog4 --> 5) delete the fist node from liked list 
 
+prog5 --> 6) search an element in linked list 
+
