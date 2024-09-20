@@ -11,3 +11,6 @@ prog4 --> 5) delete the fist node from liked list
 prog5 --> 6) search an element in linked list 
 
 pro6 --> 7) reverse a SingalyLinkedList 
+
+prog7 --> 8) find the nth element from end of the SingalyLinkedList 
+
