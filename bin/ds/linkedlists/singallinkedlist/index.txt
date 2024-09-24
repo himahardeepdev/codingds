@@ -19,4 +19,6 @@ prog7 --> 8) find the nth element from end of the SingalyLinkedList
 day(24/09/2024)
 prog 8 --> remove the duplicate element from sort list 
 
+prog9 --> insert a new node in sort list 
+
 
