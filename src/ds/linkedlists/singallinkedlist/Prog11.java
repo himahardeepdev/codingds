@@ -46,13 +46,17 @@ public class Prog11 {
         NodeList fourth = new NodeList(40);
         NodeList fifth = new NodeList(50);
         NodeList sixth = new NodeList(60);
+        NodeList seventh = new NodeList(70);
+        NodeList eigth = new NodeList(80);
 
         p11.head.next = second;
         second.next = third;
         third.next = fourth;
         fourth.next = fifth;
         fifth.next = sixth;
-        sixth.next = third;
+        sixth.next = seventh;
+        seventh.next = eigth;
+        eigth.next = second;
 
         // p11.printList();
         boolean cehck = p11.detecLoopInSingalList();
