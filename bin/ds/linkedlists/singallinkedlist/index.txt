@@ -23,6 +23,9 @@ prog9 --> insert a new node in sort list
 
 prog10 --> remove the element from list 
 
+prog 11 --> detect the loop in single linked list 
+
+
 
 
 
