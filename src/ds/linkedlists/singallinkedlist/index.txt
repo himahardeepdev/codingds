@@ -21,4 +21,8 @@ prog 8 --> remove the duplicate element from sort list
 
 prog9 --> insert a new node in sort list 
 
+prog10 --> remove the element from list 
+
+
+
 
