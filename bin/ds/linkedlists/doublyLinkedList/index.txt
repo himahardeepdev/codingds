@@ -1,0 +1,6 @@
+prog1 -->   create doubly Linked List and 
+            print from forward and backward 
+            insert node at last     
+            delete first node  and  last node  
+
+prog2 -->

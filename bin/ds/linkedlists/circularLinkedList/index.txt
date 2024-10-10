@@ -1,0 +1,1 @@
+prog1 --> create a singlyLinkedList , traverse  , insertAtFirst & last  , delete first elements 
