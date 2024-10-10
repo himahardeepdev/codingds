@@ -1,0 +1,17 @@
+prog1 --> implementing push and pop methods in stack with singly linked list 
+
+prog2 --> implementing push and pop methods in stack with Array 
+
+prog3 --> reverse a string using stack using collection frame work 
+
+prog4 --> get the next greatest element in right 
+            ex - [4,7,3,4,8,1] --> o/p [7,8,4,-1,-1]
+
+prog5 --> valid parameters 
+            ex - [{}] - true
+                 [} - false 
+                (})  - false 
+
+  
+
+
