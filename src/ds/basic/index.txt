@@ -6,5 +6,7 @@ prog3 -> largest two numbers
 
 prog4 -> odd and even number 
 
+pog5 -> check wether the given number is divisable by 7
+
 
 
