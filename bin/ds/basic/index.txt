@@ -4,5 +4,7 @@ prog2 -> swap two number without using variable
 
 prog3 -> largest two numbers
 
+prog4 -> odd and even number 
+
 
 
