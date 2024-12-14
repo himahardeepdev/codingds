@@ -10,3 +10,5 @@ pog5 -> check wether the given number is divisable by 7
 
 prog6 -> largest of three number
 
+prog7 -> smallest number of three number 
+
