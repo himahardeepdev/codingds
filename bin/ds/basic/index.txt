@@ -1,3 +1,6 @@
 prog1 -> swap the two number 
 
+prog2 -> swap two number without using variable
+
+
 
