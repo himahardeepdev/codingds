@@ -8,5 +8,5 @@ prog4 -> odd and even number
 
 pog5 -> check wether the given number is divisable by 7
 
-
+prog6 -> largest of three number
 
